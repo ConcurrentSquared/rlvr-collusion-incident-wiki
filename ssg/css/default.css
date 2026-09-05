@@ -1,0 +1,78 @@
+:root {
+  color-scheme: dark light;
+  --background: #000;
+  --text: #fff;
+  --muted: #b8b8b8;
+  --rule: #555;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #fff;
+    --text: #111;
+    --muted: #555;
+    --rule: #bbb;
+  }
+}
+
+html {
+  background: var(--background);
+  color: var(--text);
+}
+
+body {
+  max-width: 76ch;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+header, footer {
+  color: var(--muted);
+  font-size: 0.9em;
+}
+
+header { margin-bottom: 3rem; }
+footer { margin-top: 3rem; }
+
+h1, h2, h3 {
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+h1 { font-size: 2em; }
+h2 { margin-top: 2em; font-size: 1.5em; }
+h3 { margin-top: 1.5em; font-size: 1.2em; }
+
+a { color: inherit; text-underline-offset: 0.15em; }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+
+blockquote {
+  margin-inline: 0;
+  padding-left: 1rem;
+  border-left: 2px solid var(--rule);
+}
+
+table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+th, td {
+  min-width: 12ch;
+  padding: 0.5em;
+  border-bottom: 1px solid var(--rule);
+  text-align: left;
+  vertical-align: top;
+}
+
+pre { overflow-x: auto; }
+code { font-size: 0.85em; }
+img { max-width: 100%; height: auto; }
+hr { border: 0; border-top: 1px solid var(--rule); }
