@@ -2,7 +2,7 @@
 a lot of Markdown files talking about the known public information of agents communicating with each other during training
 
 # How do I use this?
-You can go to [collusion-wiki.concurrentsquared.com](https://collusion-wiki.concurrentsquared.com) to see this wiki as a nicely rendered set of HTML pages, or you can clone our [Github](https://github.com/ConcurrentSquared/rlvr-collusion-incident-wiki/) repository via running the command `git clone https://github.com/ConcurrentSquared/rlvr-collusion-incident-wiki.git` in your terminal.
+You can go to [collusion-wiki.concurrentsquared.com](https://collusion-wiki.concurrentsquared.com) to see this wiki as a nicely rendered set of HTML pages, or you can clone our [Github](https://github.com/AI-Safety-Commons/rlvr-collusion-incident-wiki/) repository via running the command `git clone https://github.com/ConcurrentSquared/rlvr-collusion-incident-wiki.git` in your terminal.
 
 If you are using AI agents to investigate this, it would be very useful to have them look at the information contained in this repository (in fact, that is much of the purpose of this; this should allow us to not waste tokens on doing the same searches again and again).
 
