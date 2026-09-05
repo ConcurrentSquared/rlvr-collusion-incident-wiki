@@ -6,8 +6,12 @@ import System.FilePath (replaceExtension, takeFileName)
 
 main :: IO ()
 main = hakyllWith config $ do
+    match "README.md" $ do
+        route $ constRoute "index.html"
+        compile $ renderPage (constField "title" "RLVR Collusion Incident Wiki" <> defaultContext)
+
     match "articles/*.md" $ do
-        route $ customRoute $ (`replaceExtension` "html") . takeFileName . toFilePath
+        route $ customRoute articleRoute
         compile $ renderPage defaultContext
 
     match "LICENSE.md" $ do
@@ -33,14 +37,21 @@ renderPage context =
     pandocCompiler
         >>= loadAndApplyTemplate "ssg/templates/default.html" context
         >>= pure . fmap (withUrls markdownLink)
-        >>= relativizeUrls
+            >>= relativizeUrls
+
+articleRoute :: Identifier -> FilePath
+articleRoute identifier
+    | takeFileName (toFilePath identifier) == "index.md" = "article-index.html"
+    | otherwise = replaceExtension (takeFileName (toFilePath identifier)) "html"
 
 -- Keep fragments and queries, and leave external source URLs untouched.
 markdownLink :: String -> String
 markdownLink url
     | ":" `isInfixOf` url || "//" `isPrefixOf` url = url
     | otherwise =
-        let (path, suffix) = break (`elem` ['#', '?']) url
-        in if ".md" `isSuffixOf` path
-            then replaceExtension path "html" ++ suffix
+        let (rawPath, suffix) = break (`elem` ['#', '?']) url
+            path = if "articles/" `isPrefixOf` rawPath then drop 9 rawPath else rawPath
+            path' = if path == "index.md" then "article-index.md" else path
+        in if ".md" `isSuffixOf` path'
+            then replaceExtension path' "html" ++ suffix
             else url
