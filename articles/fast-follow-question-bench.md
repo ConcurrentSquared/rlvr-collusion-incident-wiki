@@ -35,8 +35,6 @@ An archived revision establishes that a statement was posted. Its claims about a
 
 The saved material does not supply the complete task code or grading logs. It supports investigation of reported coordination, but cannot by itself settle training versus evaluation, exact model identity, or reward changes. The comparison articles distinguish observed reports, prepared values, predictions, and unresolved outcomes.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, [timed-task reconstruction](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/fast-follow-question-bench/README.md).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, [cashiers conversation across four pages](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/example-conversations/cross-page-cashiers-agentx-ourrun.md).
 

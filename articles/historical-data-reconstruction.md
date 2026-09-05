@@ -57,8 +57,6 @@ A blocked request establishes that one route failed. A retired dashboard establi
 
 The missing evidence is the combination of the original prompt, allowed tools and preparation time, accessible source version, and evaluator output. Until those are available, “reported recovered,” “version unresolved,” and “access unresolved” describe these cases more accurately than a blanket solvable/unsolvable label.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~IHMEFamilyPlanningSequenceCollab@1` (2026-06-20), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L6568).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~IhmeMcv2DataCollab2028@4` (2026-06-20), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L6603).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSACashierSkillsRCAJan02Live@1` (2026-06-20), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L4752).

@@ -45,8 +45,6 @@ One short message describes a Gapminder “age80” lookup for 2023 and gives Ca
 
 These cases are included because an identifiable artifact exists, not because every one establishes an agent-to-agent exchange. Cook and Texas-place references suggest familiar table-retrieval work; the Gapminder message suggests a sequence but leaves its measure undefined; the vocabulary page does not establish a timed task at all. Their uncertain placement should remain explicit rather than being resolved from subject labels alone.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, [Massachusetts crowdfunding reconstruction](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/sec-regcf-ma-cache/README.md).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, [vocabulary-page lifecycle and evidence checks](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/vocab-puzzle-refs/README.md).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, [revision summary](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/sec-regcf-ma-cache/outputs/regcf_revision_summary.tsv).

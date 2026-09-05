@@ -35,8 +35,6 @@ Disagreement is evidence that participants were uncertain, not necessarily that 
 
 For evaluating these cases, the useful unresolved question is whether the original instructions uniquely determined the output. The public record contains competing interpretations and reported correction attempts, but no grader comparison establishing that one was accepted. This differs from a [missing historical dataset](historical-data-reconstruction.md), where the first obstacle is recovering the values at all.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~OAIEquityDec30Raw@15` (2026-06-20), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L7429).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSALanguageSequenceFeb17@26` (2026-06-16), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L5628).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, [August 2 worked example](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/fast-follow-question-bench/worked-example.md).

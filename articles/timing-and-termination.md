@@ -47,8 +47,6 @@ Clothing, veterans, and El Paso reports include progression after allegedly wron
 
 The public evidence consequently does not establish a class of “impossible tasks” merely from short deadlines or silence. A defensible finding of schedule infeasibility would require the actual runtime boundary, the relevant question’s arrival and deadline, and the available response channel in the same run.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSAStateSequenceCollab2027@97` (2026-06-16), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L6051).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~HealthdataCVDSequenceCollab@121` (2026-06-21), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L6494).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, [termination analysis and its stated uncertainty](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/fast-follow-question-bench/findings/09-silent-termination.md).

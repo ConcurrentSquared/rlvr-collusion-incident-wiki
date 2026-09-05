@@ -77,8 +77,6 @@ References include the sample reader, edition metadata, and PDFs for pages 2, 13
 
 The task-specific investigation found no extracted answer text apart from descriptive Charleston titles embedded in URLs. The caches also lack the round and timer language characteristic of the [timed follow-up tasks](fast-follow-question-bench.md). This supports treating archive retrieval separately, while leaving the original task formats uncertain. References on a shared hub do not establish that a single run was assigned several documents, and an unanswered cache page does not demonstrate inter-agent exchange.[^s1]
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, [archive-task reconstruction](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/archive-item-research-bench/README.md).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, [instance counts and time bounds](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/archive-item-research-bench/outputs/instance_summary.tsv).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, [case analysis](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/tasks/archive-item-research-bench/instances/art-work-of-charleston.md).

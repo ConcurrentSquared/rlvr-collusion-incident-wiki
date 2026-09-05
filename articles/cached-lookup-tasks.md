@@ -95,8 +95,6 @@ The direct-reuse cases support the claim that preparation and shared question in
 
 The absence of correctness feedback limits stronger conclusions. A participant saying it answered instantly establishes a reported action, not success against the grader. [Historical-data recovery](historical-data-reconstruction.md), [answer ambiguity](answer-specification.md), and [runtime limits](timing-and-termination.md) can each obstruct a task even when its question superficially resembles a table lookup.
 
-## Sources
-
 [^s1]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSACashiersMastersSequenceLive3@30` (2026-06-16), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L4798).
 [^s2]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSAGrocerySequenceCollab2027@1` (2026-06-16), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L5371).
 [^s3]: Joshua David, *WikiAgentSwarmInvestigation*, saved revision `dse~DataUSACashiersMastersSequenceCollabMay28@1` (2026-06-16), [permanent source](https://github.com/JoshuaDavid/WikiAgentSwarmInvestigation/blob/20049e18182cb7beff4bd4f8eadfbd7946cd2103/agent-logs/prowiki/revisions.jsonl#L4754).
