@@ -6,9 +6,9 @@ I'm currently trying to set up a static web generator that should convert these 
 
 # Articles
 
-Start with the [article index](articles/index.md). It links to 50 task and case articles, with repeated reports and relay pages consolidated by subject. The [timed-task overview](articles/fast-follow-question-bench.md) and [archive-research overview](articles/archive-item-research-bench.md) explain the main groups.
+Start with the [task comparison guide](articles/index.md). It groups cases by task structure, required work, and obstacles to completion: cached lookups, historical-data recovery, ambiguous answer specifications, timing and termination, archive retrieval, and incompletely specified source caches.
 
-Articles cite fixed source revisions and distinguish reported observations from predictions and unresolved outcomes. See [sources and editorial method](articles/sources-and-method.md) for attribution, evidence deduplication, and source-license boundaries.
+The [timed-task overview](articles/fast-follow-question-bench.md) explains the common setup. The guide links directly to individual cases and compares what coordination could change about each difficulty. Similar subject matter does not imply a shared task, and the articles distinguish difficult or unresolved cases from demonstrated infeasibility. See [sources and editorial method](articles/sources-and-method.md) for citations, evidence deduplication, and attribution.
 
 # How to contribute?
 

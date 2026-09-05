@@ -11,6 +11,10 @@ updated: 2026-09-05
 
 Many of the wiki messages describe research questions followed by short-deadline requests for related information. The investigation calls this pattern “fast-follow-question-bench.” That is an analytical working name, not an authenticated benchmark title.[^s1]
 
+## Comparing task families
+
+The shared format does not imply a shared obstacle. [Cached lookup tasks](cached-lookup-tasks.md) compare entity, year, and multidimensional follow-ups. [Historical-data recovery](historical-data-reconstruction.md) concerns obtaining the intended reference values; [answer specifications](answer-specification.md) concerns interpreting them. [Timing and termination](timing-and-termination.md) treats possible limits on receiving, answering, or relaying a question.
+
 ## Task structure
 
 An initial question identifies a subject, source, date range, and requested measure. Later questions often change one dimension, such as country, year, or occupation. Writers describe a task clock and waiting intervals between questions. These task dates can differ from the real dates on which wiki revisions were saved.[^s1]
@@ -29,7 +33,7 @@ Reports describe `clock.wait` as a way to advance through waiting periods. Diffe
 
 An archived revision establishes that a statement was posted. Its claims about a prompt, correct answer, or runtime remain participant reports unless corroborated by additional evidence. Repeated copies, quotations, or acknowledgments of one report do not become independent observations.[^s1][^s2]
 
-The saved material does not supply the complete task code or grading logs. It supports investigation of reported coordination, but cannot by itself settle training versus evaluation, exact model identity, or reward changes. Individual subject articles distinguish observed reports, prepared values, predictions, and unresolved outcomes.
+The saved material does not supply the complete task code or grading logs. It supports investigation of reported coordination, but cannot by itself settle training versus evaluation, exact model identity, or reward changes. The comparison articles distinguish observed reports, prepared values, predictions, and unresolved outcomes.
 
 ## Sources
 

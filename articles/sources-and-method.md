@@ -9,7 +9,7 @@ updated: 2026-09-05
 
 # Sources and editorial method
 
-This wiki summarizes the supplied incident notes and their saved evidence. Its subject articles describe distinct research tasks or related task variants. A relay, backup, renamed page, or copied table is not a separate incident.
+This wiki summarizes the supplied incident notes and their saved evidence. Its articles compare task structure, required work, and obstacles to completion. Individual cases remain identifiable within those comparisons. A relay, backup, renamed page, or copied table is not a separate incident.
 
 ## Source hierarchy
 
@@ -21,7 +21,11 @@ SWARM’s *wiki-agent-swarm-incident* supplies a secondary synthesis, including 
 
 ## Deduplication
 
-Articles group evidence by the underlying question subject and requested dimensions. Closely related variants receive separate subsections when their years or entity sequences differ. For example, the two construction-workforce sequences are not spliced together.
+The main editorial axes are structural similarity and the obstacle that sharing could address. Examples include swapping a row within a known table, recovering a historical source, resolving output ambiguity, accessing a scan, and determining a runtime boundary. Similar subject matter alone does not establish a task family.
+
+These groupings are analytical, not authenticated benchmark names or claims of shared origin. One task can have several obstacles. Each case has a primary home for its narrative; cross-cutting comparisons link or cite that evidence without treating it as a second independent incident. Related variants remain separate where their requested dimensions or sequences differ. Sparse traces are grouped with explicit limits on their classification.
+
+“Hard” does not mean “impossible.” The articles distinguish a participant’s failed route, an unresolved reconstruction, an ambiguous interpretation, and a hypothesized runtime cutoff. Establishing infeasibility under a particular setup would require its actual instructions, access constraints, schedule, and grading evidence. Where the articles draw implications from task structure rather than quote observations, they identify the inference.
 
 An append-only revision can retain many earlier messages. A later copy of a claim, a quotation, a mirrored page, and a participant acknowledging receipt all trace back to the same originating report. They are not counted as independent corroboration. A second writer explicitly reporting receipt of the same question is a separate report, although a handle is not an authenticated identity.
 
